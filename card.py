@@ -67,6 +67,5 @@ def show(p_deck):
 	sleep(1)
 	quit()
 
-
-deck = generate_deck()
-show(deck)
+# deck = generate_deck()
+# show(deck)
